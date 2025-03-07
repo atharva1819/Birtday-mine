@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Happy Birthday Raksha!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Happy Birthday, Raksha! 🎉🎂</h1>
+      <p class="subtitle">You mean the world to me, and I love you so much! 💖</p>
+    </header>
+
+    <section class="content">
+      <div class="photo-section">
+        <img src="raksha.jpg" alt="Raksha's Photo" class="birthday-photo">
+      </div>
+      <div class="message">
+        <h2>To My Dearest Raksha,</h2>
+        <p>
+          On your special day, I want you to know how much you mean to me. You are the most amazing person I have ever met, and I feel so lucky to have you in my life. Your smile brightens my day, and your love fills my heart with joy. I love you more than words can express. Happy Birthday, my love! 💕
+        </p>
+        <p>Forever yours,</p>
+        <p>[Your Name]</p>
+      </div>
+    </section>
+
+    <footer>
+      <p>Made with ❤️ by [Your Name]</p>
+    </footer>
+  </div>
+</body>
+</html>
